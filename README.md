@@ -40,9 +40,10 @@
 - **[Cookbook Archive](https://github.com/eskmag/cookbook-archive)**  
   Recipe and cookbook manager built with React, Vite, and TypeScript.  
   🔗 [Live demo](https://cookbookarchive.vercel.app)
+---
 
-> _More projects on my [portfolio](https://your-portfolio-link.com)_
-
+## For more projects, check out my [portfolio](https://eskilmagnussen.com)
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -51,4 +52,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=eskmag&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eskmag&theme=dark&hide_border=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
